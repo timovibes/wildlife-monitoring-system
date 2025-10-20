@@ -15,8 +15,7 @@ A **full-stack web-based system** to monitor wildlife and biodiversity, track en
 7. [IoT Simulation](#iot-simulation)
 8. [Database Seeding](#database-seeding)
 9. [API Endpoints](#api-endpoints)
-10. [Screenshots](#screenshots)
-11. [License](#license)
+10. [License](#license)
 
 ---
 
